@@ -70,11 +70,7 @@ This project includes:
 
 ## 📦 Installation
 
-### **1️⃣ Install Python**
-
-```bash
-https://www.python.org/downloads/
-```
+### **1️⃣Install Python (if not installed)**
 
 ### **2️⃣ Install Pygame**
 
@@ -85,7 +81,7 @@ pip install pygame
 ### **3️⃣ Clone the project**
 
 ```bash
-https://github.com/yourusername/CarDodgingGame.git
+https://github.com/codertheashish/Car_dodging_game
 ```
 
 ### **4️⃣ Run the game**
